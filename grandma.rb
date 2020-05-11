@@ -14,5 +14,9 @@
 
 def speak_to_grandma(dialogue)
   if dialogue == "I LOVE YOU GRANDMA!"
+    "I LOVE YOU TOO PUMPKIN!"
+  elsif dialogue == dialogue.
+    
+  end
   
 end
